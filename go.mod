@@ -8,6 +8,8 @@ require (
 	github.com/go-openapi/strfmt v0.26.1
 	github.com/go-openapi/swag v0.25.5
 	github.com/go-openapi/validate v0.25.2
+	github.com/google/uuid v1.6.0
+	github.com/iancoleman/orderedmap v0.3.0
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/viper v1.21.0
 )
@@ -35,7 +37,6 @@ require (
 	github.com/go-openapi/swag/typeutils v0.25.5 // indirect
 	github.com/go-openapi/swag/yamlutils v0.25.5 // indirect
 	github.com/go-viper/mapstructure/v2 v2.5.0 // indirect
-	github.com/google/uuid v1.6.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/oklog/ulid/v2 v2.1.1 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.4 // indirect
