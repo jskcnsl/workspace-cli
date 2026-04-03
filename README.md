@@ -7,6 +7,10 @@
 
 Chaitin Workspace CLI for products
 
+## Demo
+
+[![asciicast](https://asciinema.org/a/894643.svg)](https://asciinema.org/a/894643)
+
 ## Configuration
 
 Put product connection settings in `./config.yaml`:
